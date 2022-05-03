@@ -1,5 +1,5 @@
 {
-  "name": "strapi-sqlite",
+  "name": "RTM-CMS",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -10,9 +10,9 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "4.1.7",
-    "@strapi/plugin-users-permissions": "4.1.7",
-    "@strapi/strapi": "4.1.7",
+    "@strapi/plugin-i18n": "4.1.9",
+    "@strapi/plugin-users-permissions": "4.1.9",
+    "@strapi/strapi": "4.1.9",
     "sqlite3": "^5.0.2"
   },
   "author": {
